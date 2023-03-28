@@ -1,5 +1,5 @@
 # Animated Dinosaur on a Unicycle
-This project is a fun and whimsical animation of a dinosaur riding a unicycle, created using HTML and CSS. The project is inspired by the Jurassic Park franchise and combines a dinosaur and a unicycle in a unique and playful way.
+This project is a fun and whimsical animation of a dinosaur riding a unicycle, created using HTML and CSS. The project is inspired by the Jurassic Park franchise and combines a dinosaur and a unicycle in a unique and playful way
 
 ## Usage
 To use this project, simply copy and paste the code from index.html and style.css into your own HTML and CSS files, respectively. The animation is created using keyframes and can be customized by changing the values in the CSS file.
